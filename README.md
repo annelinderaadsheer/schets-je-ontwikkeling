@@ -13,4 +13,4 @@ Vervolgens heb ik 3 verschillende schetsen gemaakt, en de informatie die ik voor
 
 ![REIS-1](https://github.com/annelinderaadsheer/schets-je-ontwikkeling/assets/144004885/eee8045a-9a3f-49d2-9850-c1134f06925d)
 
-Uiteindelijk ben ik gegaan voor de schets die ik het beste vind passen bij mijn ontwikkeling van de afgelopen sprints. Ik noem deze praatplaat 'Annelinde's reis'. Ik heb hier vooral gekeken naar wat er goed gaat, en waar ik zelf denk dat ik nog wat beter in kan worden.
+Uiteindelijk ben ik gegaan voor de schets die ik het beste vind passen bij mijn ontwikkeling van de afgelopen sprints. Ik noem deze praatplaat 'Annelinde's reis'. Ik heb hier vooral gekeken naar wat er goed gaat, en waar ik zelf denk dat ik nog beter in kan worden en hoe ik mijn ontwikkeling van de afgelopen tijd heb ervaren.
